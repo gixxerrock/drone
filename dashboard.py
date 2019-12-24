@@ -3,5 +3,5 @@ def Initialize():
 
     return params
 
-def Update():
+def Update(i_params, a_params, m_params, c_params):
     x=5
